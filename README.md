@@ -1,6 +1,6 @@
-# agromap
+# CheckerCordova
 
-> agromap
+> CheckerCordova
 
 config/index.js
 assetsPublicPath: '/',
